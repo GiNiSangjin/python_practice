@@ -49,3 +49,23 @@ print(fruits)
 others=['kiwi', 'melon']
 fruits=fruits + others
 print(fruits)
+
+#값으로 오프셋 찾기
+fruits.index('kiwi')
+print(fruits.index('kiwi'))
+
+#원하는 값이 리스트에 있는지 확인하기
+print('kiwi' in fruits)
+print('kiwi' not in fruits)
+print('pear' in fruits)
+print('pear' not in fruits)
+
+#리스트에 있는 항목들 갯수 세기
+print(len(fruits))
+word = 'hello world '
+print(len(word))
+print(word.count('l'))
+
+#리스트 정렬하기
+fruits.append('ammon')
+print(sorted(fruits))
