@@ -29,3 +29,16 @@ print(math.sqrt(16))
 print(5+4*2)
 
 print((5+4)*2)
+
+# 변수 할당
+fish='고등어'
+print(fish)
+
+hello='hello'
+print(hello)
+
+price=3000
+print(price*3)
+
+weight=80.45
+print(weight-14.5)
