@@ -17,3 +17,8 @@ print(10%7)
 print(7*7*7*7)
 
 print(7**4)
+
+import math
+
+math.sqrt(16)
+print(math.sqrt(16))
