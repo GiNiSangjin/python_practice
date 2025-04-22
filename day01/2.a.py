@@ -17,3 +17,7 @@ number2 = input('두 번째 숫자를 입력하세요: ')
 number1 = int(number1)
 number2 = int(number2)
 print('두 숫자의 합은 {}입니다.'.format(number1 + number2))
+
+print(int(number1))
+print(float(number1))
+print(str(number1), str(123))
