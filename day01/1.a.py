@@ -42,3 +42,10 @@ print(price*3)
 
 weight=80.45
 print(weight-14.5)
+
+# 데이터 타입 확인 방법
+print(type(fish))
+
+print(type(price))
+
+print(type(weight))
